@@ -5,7 +5,7 @@ import Login from './Login'
 const Browse = () => {
   return (
     <div>
-        
+        <Header/>
     </div>
   )
 }
