@@ -8,6 +8,8 @@ export const API_OPTIONS={
     }
   };
 
+export const IMG_CDN_URL="https://image.tmdb.org/t/p/w780/"
+
 
 
 // eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI3YzUxMzY3YTExODRjZWU3ZGU4NWEwNDVhMTgyZDQwYyIsInN1YiI6IjY0ZjJkNmJlMjViOTU1MDBhZTI5NjVmOSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.zghFM_Op6P4FhIinY5ejPFUIPUR0rG-tWh_iG2gv-dk
